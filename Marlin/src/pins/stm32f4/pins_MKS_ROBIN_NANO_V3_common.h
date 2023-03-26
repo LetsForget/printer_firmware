@@ -129,9 +129,9 @@
 // Temperature Sensors
 //
 #define TEMP_0_PIN                          PC1   // TH1
-#define TEMP_1_PIN                          PA2   // TH2
+#define TEMP_CHAMBER_PIN                    PA2   // TH2
 #define TEMP_BED_PIN                        PC0   // TB1
-
+                
 //
 // Heaters / Fans
 //
